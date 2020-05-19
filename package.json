@@ -1,0 +1,19 @@
+{
+  "name": "await-or-not",
+  "version": "1.0.0",
+  "description": "Conditionally await a promise",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apptness/await-or-not.git"
+  },
+  "author": "Alex Steele <alexsteele110@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apptness/await-or-not/issues"
+  },
+  "homepage": "https://github.com/Apptness/await-or-not#readme"
+}
