@@ -2,7 +2,7 @@
 
 Due to popular demand, we are releasing this library.
 
-![Go!](./assets/gopher.png?raw=true "Go!")
+![Go!](./assets/mascot.png?raw=true "Go!")
 
 ## About
 
